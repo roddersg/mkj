@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Work files
+*.flac
+*.jpg
+*.cue
+template.*
+template*
+mkmeta.sh
