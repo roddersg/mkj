@@ -1,0 +1,9 @@
+[project]
+name = "mkj"
+version = "0.1.0"
+description = "mkj makes combined flac files for my audio library"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "notebook>=7.4.3",
+]
