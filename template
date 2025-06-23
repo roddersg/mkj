@@ -1,10 +1,11 @@
+#---------- comment line
 DISCID=1234567
-ARTIST=Artist Dire Straits
-ALBUM=Title Down Under (Sydney Broadcast 1986)
+ARTIST=Dire Straits
+ALBUM=Down Under (Sydney Broadcast 1986)
 DATE=2024
 GENRE=Rock
 COMMENT=2025-06-05, My Collection
-COMPILATION=0
-DISCNUMBER=1
-TOTALDISCS=2
-ALBUMARTIST=Artist Dire Straits
+COMPILATION=1
+ALBUMARTIST=Dire Straits
+
+
